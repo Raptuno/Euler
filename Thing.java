@@ -190,8 +190,8 @@ public class Thing {
 		txtDescomp.setBounds(138, 138, 76, 21);
 		
 		Label lblEsteProgramaEst = new Label(shell, SWT.NONE);
-		lblEsteProgramaEst.setBounds(10, 192, 275, 15);
-		lblEsteProgramaEst.setText("Este programa está protegido bajo la licencia GPL v3");
+		lblEsteProgramaEst.setBounds(10, 192, 308, 15);
+		lblEsteProgramaEst.setText("Este programa está incompleto hacia el 16 de Julio de 2020");
 
 	}
 }
